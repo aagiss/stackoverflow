@@ -18,6 +18,7 @@ For this project, I was interestested in using Stack Overflow data from 2018 to 
 1. What differs in being a Developer at 40's?
 2. What can a developer at 40's do to improve Job Satisfaction and/or Salary?
 3. What are the key factors that can predict salary in this age group?
+
 Please send other suggestions for questions to: aagissp@gmail.com
 
 
