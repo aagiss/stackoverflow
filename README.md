@@ -29,7 +29,7 @@ There is one notebook that provides visualizations and code to answer these ques
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@aagiss/developers-at-35-45yo-5-suggestions-to-improve-job-satisfaction-and-salary-2e3e1055b12f).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
